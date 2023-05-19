@@ -1,0 +1,74 @@
+body {
+  background-color: pink;
+}
+
+#contenidor{
+    background-color: pink;
+    background-image: url(fondo.jpg);
+}
+
+.cuadraditos {
+  height: 150px;
+  width: 150px;
+  background-color: purple;
+  margin: 10px;
+  font-size: 50px;
+  text-align: center;
+  line-height: 150px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+#div1 {
+  background-color: lightgreen;
+  color: white;
+  background-image: url(paisaje1.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 300px;
+}
+
+#div2 {
+  background-color: purple;
+  color: white;
+  background-image: url(paisaje2.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 375px;
+}
+
+#div3 {
+  background-color: lightblue;
+  color: white;
+  background-image: url(paisaje3.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 500px;
+}
+
+#div4 {
+  background-color: salmon;
+  color: white;
+  background-image: url(paisaje4.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 350px;
+}
+
+#div5 {
+  background-color: lightyellow;
+  color: white;
+  background-image: url(paisaje5.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 250px;
+}
+
+#div6 {
+  background-color: gray;
+  color: white;
+  background-image: url(paisaje6.jpeg);
+  background-size:cover;
+  height: 200px;
+  width: 550px;
+}
