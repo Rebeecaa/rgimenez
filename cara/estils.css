@@ -1,0 +1,263 @@
+body {
+background-image: url(img/fondo.jpeg);
+}
+
+#pelo {
+  margin: 0 auto;
+  background-color: #ddae46;
+  border-radius: 51% 51% 50% 50% / 100% 100% 0% 0%;
+  height: 900px;
+  width: 875px;
+
+}
+
+#cara {
+  margin: 0 auto;
+  height: 575px;
+  width: 500px;
+  background-color: #e2c098;
+  border-radius: 50%;
+  position: relative;
+  top: 75px;
+}
+
+#flequillo {
+  height: 77px;
+  width: 15px;
+  background-color: #d3a149 ;
+  position: relative;
+  top: -425px;
+  left: -50px;
+  border-radius: 100% 0 100% 0;
+  transform: rotate(10deg);
+}
+
+.ojos {
+  height: 65px;
+  width: 110px;
+  background-color: white;
+  border-radius: 100%;
+  float: left;
+  position: relative;
+  top: 160px;
+}
+
+#ojo1 {
+  margin-left: 90px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+#ojo2 {
+  margin-left: 95px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.verde {
+  background-color: #aec3a1;
+  height: 65px;
+  width: 65px;
+  border-radius: 100%;
+  margin-left: 23px;
+  margin-top: 0px;
+}
+
+.negro {
+  background-color: black;
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  margin-left: 39px;
+  margin-top: -50px;
+}
+
+.blanco {
+  background-color: white;
+  height: 10px;
+  width: 10px;
+  border-radius: 100%;
+}
+
+#nariz {
+  height: 20px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #e2c098;
+  position: relative;
+  top: 300px;
+  margin: 0 auto;
+  border-bottom: 3px solid black;
+}
+
+#boca {
+  margin: 0 auto;
+  width: 110px;
+  height: 50px;
+  border: 2px solid #D37C7C;
+  background: #F59D9D;
+  -moz-border-radius: 0 0 100px 100px;
+  -webkit-border-radius: 100px 100px 0 0;
+  border-radius: 0 0 100px 100px;
+  margin-top: 400px;
+}
+
+.gafas {
+  border: 2px solid black;
+  position: relative;
+}
+
+#cristalizq {
+  height: 130px;
+  width: 150px;
+  top: -350px;
+  left: 65px;
+  border-radius: 20% 20% 40% 40%;
+}
+
+#cristalder {
+  height: 130px;
+  width: 150px;
+  top: -3px;
+  left: 205px;
+  border-radius: 20% 20% 40% 40%;
+}
+
+#linea {
+  width: 52px;
+  top: -80px;
+  left: 150px;
+  border: 2px solid black;
+}
+
+#lineaizq {
+  width: 53px;
+  top: -83px;
+  left: -58px;
+}
+
+#lineader {
+  width: 63px;
+  top: -90px;
+  left: 358px;
+}
+
+#berruga {
+  height: 5px;
+  width: 5px;
+  background-color: #aa853b;
+  position: relative;
+  top: 120px;
+  left: 150px;
+  border-radius: 100%;
+
+}
+
+#berruga1 {
+  height: 7px;
+  width: 7px;
+  background-color: #aa853b;
+  position: relative;
+  top: -73px;
+  right: -65px;
+  border-radius: 100%;
+}
+
+.pestañas {
+  background-color: black;
+  width: 15px;
+  height: 2px;
+  position: relative;
+  transform: rotate(60deg);
+}
+
+.pestañas2 {
+  background-color: black;
+  width: 15px;
+  height: 2px;
+  position: relative;
+  transform: rotate(60deg);
+}
+
+#pestaña1 {
+left: 90px;
+top: 194px;
+}
+
+#pestaña2 {
+left: 105px;
+top: 185px;
+transform: rotate(70deg);
+}
+
+#pestaña3 {
+left: 120px;
+top: 178px;
+transform: rotate(75deg);
+}
+
+#pestaña4 {
+left: 135px;
+top: 175px;
+transform: rotate(80deg);
+}
+
+#pestaña5 {
+left: 150px;
+top: 173px;
+transform: rotate(90deg);
+}
+
+#pestaña6 {
+left: 165px;
+top: 175px;
+transform: rotate(95deg);
+}
+
+#pestaña7 {
+left: 178px;
+top: 178px;
+transform: rotate(100deg);
+}
+
+#pestaña8 {
+  left: 390px;
+  top: 182px;
+  transform: rotate(105deg);
+}
+
+#pestaña9 {
+  left: 376px;
+  top: 171px;
+  transform: rotate(97deg);
+}
+
+#pestaña10 {
+  left: 360px;
+  top: 165px;
+  transform: rotate(87deg);
+}
+
+#pestaña11{
+  left: 345px;
+  top: 162px;
+  transform: rotate(83deg);
+}
+
+#pestaña12{
+  left: 330px;
+  top: 160px;
+  transform: rotate(77deg);
+}
+
+#pestaña13{
+  left: 315px;
+  top: 161px;
+  transform: rotate(73deg);
+}
+
+#pestaña14{
+  left: 300px;
+  top: 166px;
+  transform: rotate(58deg);
+}
